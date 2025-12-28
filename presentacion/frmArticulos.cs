@@ -15,6 +15,8 @@ namespace presentacion
     public partial class frmArticulos : Form
     {
         private List<Articulo> listaArticulos;
+        //Modificación
+        //1ra prueba en gitHub
         public frmArticulos()
         {
             InitializeComponent();
